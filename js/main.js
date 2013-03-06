@@ -8,6 +8,6 @@ require.config({
   }
 });
  
-require(['signals'], function() {
+require([], function() {
     
 });
